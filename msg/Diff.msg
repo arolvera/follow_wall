@@ -1,0 +1,4 @@
+bool left_direction_forward
+bool right_direction_forward
+uint8 left_speed
+uint8 right_speed

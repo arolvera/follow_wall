@@ -1,0 +1,5 @@
+float32 front_distance
+float32 right_front_distance
+float32 right_distance
+float32 left_distance
+uint16 orientation 
